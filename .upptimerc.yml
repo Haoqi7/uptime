@@ -3,14 +3,95 @@ owner: Haoqi7 # Your GitHub organization or username, where this repository live
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: File Transfer
+    url: https://code.haoqiyong.cf/
+  - name: memos备忘录
+    url: https://write.haoqiyong.cf/
+  - name: 便签
+    url: https://note.haoqiyun.ml/ 
+  - name: Bill账单
+    url: https://bill.wasenk.cf/
+  - name: 网盘搜索
+    url: https://search.haoqiyun.ml/
+  - name: One网盘
+    url: https://www.haoqiyun.tk/
+  - name: OneDrive
+    url: https://pan.wasenk.cf/zh-CN/
+  - name: BP3网盘
+    url: http://nav.midfegh.tk/
+  - name: Alist网盘
+    url: https://pan.haoqiyong.cf
+  - name: Stable Diffusion
+    url: https://haoqi7-images.hf.space/
+  - name: 检索IEEE文献
+    url: https://haoqi7-research.hf.space/
+  - name: AI对话
+    url: https://haoqi7-question.hf.space/
+  - name: AI绘画
+    url: https://haoqi7-draw.hf.space/
+  - name: 匿名聊天
+    url: https://chat.haoqi7.repl.co
+  - name: 在线API
+    url: http://api.midfegh.tk/
+  - name: Google Scholar
+    url: https://scholar.haoqiyun.tk/
+  - name: Google Search
+    url: https://google.haoqiyun.tk/
+  - name: Blog博客
+    url: https://blog.haoqiyong.cf/
+  - name: 思想加油站
+    url: https://haoqiyun.tk/
+  - name: 好好学习拔
+    url: https://www.haoqiyung.ml/
+  - name: 中文诗歌
+    url: https://haoqi7.github.io/poetry/
+  - name: 每日新闻
+    url: https://haoqi7.github.io/EverydayNews
+  - name: 每日早报
+    url: https://news.haoqiyun.ml/
+  - name: 知乎热搜榜
+    url: https://haoqi7.github.io/zhihu-search/
+  - name: 微博热搜榜
+    url: https://haoqi7.github.io/weibo-search/
+  - name: 在线阅读
+    url: https://reader.haoqiyong.cf/
+  - name: 知乎小说
+    url: https://haoqi7.github.io/zhihu
+  - name: 导航网站
+    url: https://nav.haoqiyun.ml/
+  - name: Learn Only导航
+    url: https://nav.wasenk.cf/
+  - name: Games合集
+    url: https://game.haoqiyun.tk/
+  - name: 五子棋
+    url: https://haoqi7.github.io/five-Chess/
+  - name: 象棋
+    url: https://haoqi7.github.io/Chinese-chess
+  - name: 抓猫猫
+    url: https://haoqi7.github.io/catch-cat
+  - name: YesPlayMusic
+    url: https://music.wasenk.cf/
+  - name: BiYingWallPaper
+    url: https://haoqi7.github.io/BiYingWallPaper/
+  - name: 在线壁纸
+    url: http://wa11.vercel.app/
+  - name: GitHub文件加速1
+    url: https://haoqi7.github.io/gh-proxy/
+  - name: GitHub文件加速2
+    url: https://git.haoqiyong.cf/
+  - name: OneLine Tool
+    url: https://haoqi7.github.io/online-tools/
+  - name: 在线抠图
+    url: https://image.haoqi7.repl.co/
+  - name: API代理
+    url: https://proxy.haoqiyun.tk/
+  - name: rsshub
+    url: https://rss.haoqiyung.ml/
+  - name: vercel部署
+    url: https://haoqiyun.ml/ver/Vercel/Deploy.html
+  - name: count不蒜子
+    url: https://count.haoqi7.repl.co/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
