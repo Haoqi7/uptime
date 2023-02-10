@@ -83,8 +83,6 @@ sites:
     url: https://proxy.haoqiyun.tk/
   - name: rsshub
     url: https://rss.haoqiyung.ml/
-  - name: vercel部署
-    url: https://haoqiyun.ml/ver/Vercel/Deploy.html
   - name: count不蒜子
     url: https://count.haoqi7.repl.co/
 
