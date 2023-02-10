@@ -53,8 +53,6 @@ sites:
     url: https://haoqi7.github.io/weibo-search/
   - name: 在线阅读
     url: https://reader.haoqiyong.cf/
-  - name: 知乎小说
-    url: https://haoqi7.github.io/zhihu
   - name: 导航网站
     url: https://nav.haoqiyun.ml/
   - name: Learn Only导航
