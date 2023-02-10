@@ -49,8 +49,6 @@ sites:
     url: https://haoqi7.github.io/EverydayNews
   - name: 每日早报
     url: https://news.haoqiyun.ml/
-  - name: 知乎热搜榜
-    url: https://haoqi7.github.io/zhihu-search/
   - name: 微博热搜榜
     url: https://haoqi7.github.io/weibo-search/
   - name: 在线阅读
