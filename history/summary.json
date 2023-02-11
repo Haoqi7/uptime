@@ -292,19 +292,19 @@
     "url": "https://scholar.haoqiyun.tk/",
     "icon": "https://icons.duckduckgo.com/ip3/scholar.haoqiyun.tk.ico",
     "slug": "google-scholar",
-    "status": "down",
-    "uptime": "96.54%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "96.54%",
-    "uptimeMonth": "96.54%",
-    "uptimeYear": "96.54%",
-    "time": 669,
-    "timeDay": 669,
-    "timeWeek": 669,
-    "timeMonth": 669,
-    "timeYear": 669,
+    "status": "up",
+    "uptime": "95.60%",
+    "uptimeDay": "95.60%",
+    "uptimeWeek": "95.60%",
+    "uptimeMonth": "95.60%",
+    "uptimeYear": "95.60%",
+    "time": 666,
+    "timeDay": 666,
+    "timeWeek": 666,
+    "timeMonth": 666,
+    "timeYear": 666,
     "dailyMinutesDown": {
-      "2023-02-11": 43
+      "2023-02-11": 56
     }
   },
   {
