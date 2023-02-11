@@ -9,11 +9,11 @@ sites:
     url: https://code.haoqiyong.cf/
   - name: memos备忘录
     url: https://write.haoqiyong.cf/
-  - name: 便签
+  - name: Note便签
     url: https://note.haoqiyun.ml/ 
   - name: Bill账单
     url: https://bill.wasenk.cf/
-  - name: 网盘搜索
+  - name: All网盘搜索
     url: https://search.haoqiyun.ml/
   - name: One网盘
     url: https://www.haoqiyun.tk/
@@ -25,53 +25,55 @@ sites:
     url: https://pan.haoqiyong.cf
   - name: Stable Diffusion
     url: https://haoqi7-images.hf.space/
-  - name: 检索IEEE文献
+  - name: SearchIEEE文献
     url: https://haoqi7-research.hf.space/
   - name: AI对话
     url: https://haoqi7-question.hf.space/
   - name: AI绘画
     url: https://haoqi7-draw.hf.space/
-  - name: 匿名聊天
+  - name: Chat匿名聊天
     url: https://chat.haoqi7.repl.co
-  - name: 在线API
+  - name: Online API
     url: http://api.midfegh.tk/
   - name: Google Scholar
     url: https://scholar.haoqiyun.tk/
   - name: Google Search
     url: https://google.haoqiyun.tk/
-  - name: Blog博客
+  - name: Typecho博客
     url: https://blog.haoqiyong.cf/
-  - name: 思想加油站
+  - name: Butterfly博客
     url: https://haoqiyun.tk/
-  - name: 好好学习拔
+  - name: Matery博客
     url: https://www.haoqiyung.ml/
-  - name: 中文诗歌
+  - name: Rabbit博客
+    url: https://haoqiyun.ml/    
+  - name: Chinese诗歌
     url: https://haoqi7.github.io/poetry/
-  - name: 每日新闻
+  - name: EverydayNews
     url: https://haoqi7.github.io/EverydayNews
-  - name: 每日早报
+  - name: Day's早报
     url: https://news.haoqiyun.ml/
-  - name: 微博热搜榜
+  - name: Weibo热搜榜
     url: https://haoqi7.github.io/weibo-search/
-  - name: 在线阅读
+  - name: Online reader
     url: https://reader.haoqiyong.cf/
-  - name: 导航网站
+  - name: Nav导航网站
     url: https://nav.haoqiyun.ml/
   - name: Learn Only导航
     url: https://nav.wasenk.cf/
   - name: Games合集
     url: https://game.haoqiyun.tk/
-  - name: 五子棋
+  - name: five-Chess
     url: https://haoqi7.github.io/five-Chess/
-  - name: 象棋
+  - name: Chinese-chess
     url: https://haoqi7.github.io/Chinese-chess
-  - name: 抓猫猫
+  - name: catch-cat
     url: https://haoqi7.github.io/catch-cat
   - name: YesPlayMusic
     url: https://music.wasenk.cf/
   - name: BiYingWallPaper
     url: https://haoqi7.github.io/BiYingWallPaper/
-  - name: 在线壁纸
+  - name: Online wall
     url: http://wa11.vercel.app/
   - name: GitHub文件加速1
     url: https://haoqi7.github.io/gh-proxy/
@@ -79,7 +81,7 @@ sites:
     url: https://git.haoqiyong.cf/
   - name: OneLine Tool
     url: https://haoqi7.github.io/online-tools/
-  - name: 在线抠图
+  - name: online抠图
     url: https://image.haoqi7.repl.co/
   - name: API代理
     url: https://proxy.haoqiyun.tk/
