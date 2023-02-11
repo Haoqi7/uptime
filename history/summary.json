@@ -635,18 +635,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wa11.vercel.app.ico",
     "slug": "online-wall",
     "status": "down",
-    "uptime": "1.88%",
-    "uptimeDay": "1.88%",
-    "uptimeWeek": "1.88%",
-    "uptimeMonth": "1.88%",
-    "uptimeYear": "1.88%",
+    "uptime": "0.60%",
+    "uptimeDay": "0.60%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
     "time": 124,
     "timeDay": 124,
     "timeWeek": 124,
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2023-02-11": 0
+      "2023-02-11": 1
     }
   },
   {
