@@ -7,7 +7,7 @@ sites:
     url: https://cook.wasenk.cf/
   - name: File Transfer
     url: https://code.haoqiyong.cf/
-   - name: File文件传递柜
+  - name: File文件传递柜
     url: https://file.haoda7.repl.co
   - name: memos备忘录
     url: https://write.haoqiyong.cf/
