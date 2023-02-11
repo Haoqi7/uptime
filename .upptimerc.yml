@@ -73,8 +73,6 @@ sites:
     url: https://music.wasenk.cf/
   - name: BiYingWallPaper
     url: https://haoqi7.github.io/BiYingWallPaper/
-  - name: Online wall
-    url: http://wa11.vercel.app/
   - name: GitHub文件加速1
     url: https://haoqi7.github.io/gh-proxy/
   - name: GitHub文件加速2
