@@ -25,6 +25,8 @@ sites:
     url: http://nav.midfegh.tk/
   - name: Alist网盘
     url: https://pan.haoqiyong.cf
+  - name: Cloudreve 网盘
+    url: https://one.haoda.repl.co/
   - name: Stable Diffusion
     url: https://haoqi7-images.hf.space/
   - name: SearchIEEE文献
