@@ -89,6 +89,8 @@ sites:
     url: https://uptime.haoda.repl.co/
   - name: API代理
     url: https://proxy.haoqiyun.tk/
+  - name: Rssweb
+    url: http://web.midfegh.tk/
   - name: rsshub
     url: https://rss.haoqiyung.ml/
   - name: count不蒜子
