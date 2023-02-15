@@ -37,8 +37,6 @@ sites:
     url: https://haoqi7-draw.hf.space/
   - name: Chat匿名聊天
     url: https://chat.haoqi7.repl.co
-  - name: Online API
-    url: http://api.midfegh.tk/
   - name: Google Scholar
     url: https://scholar.haoqiyun.tk/
   - name: Google Search
@@ -61,6 +59,8 @@ sites:
     url: https://haoqi7.github.io/weibo-search/
   - name: Online reader
     url: https://reader.haoqiyong.cf/
+  - name: RssWebReader
+    url: http://api.midfegh.tk/
   - name: Nav导航网站
     url: https://nav.haoqiyun.ml/
   - name: Learn Only导航
