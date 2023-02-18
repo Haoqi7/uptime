@@ -49,6 +49,10 @@ sites:
     url: https://www.haoqiyung.ml/
   - name: Rabbit博客
     url: https://haoqiyun.ml/    
+  - name: NAS-state
+    url: https://nas.wasenk.cf
+  - name: My文档
+    url: https://wasenk.cf
   - name: Chinese诗歌
     url: https://haoqi7.github.io/poetry/
   - name: EverydayNews
