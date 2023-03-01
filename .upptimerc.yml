@@ -83,9 +83,7 @@ sites:
     url: https://music.wasenk.cf/
   - name: BiYingWallPaper
     url: https://haoqi7.github.io/BiYingWallPaper/
-  - name: GitHub文件加速1
-    url: https://haoqi7.github.io/gh-proxy/
-  - name: GitHub文件加速2
+  - name: GitHub文件加速
     url: https://git.haoqiyong.cf/
   - name: OneLine Tool
     url: https://haoqi7.github.io/online-tools/
