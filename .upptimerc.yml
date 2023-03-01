@@ -61,6 +61,8 @@ sites:
     url: https://news.haoqiyun.ml/
   - name: Weibo热搜榜
     url: https://haoqi7.github.io/weibo-search/
+  - name: Book search
+    url: https://book.haoda7.repl.co/
   - name: Online reader
     url: https://reader.haoqiyong.cf/
   - name: RssWebReader
