@@ -99,6 +99,8 @@ sites:
     url: http://web.midfegh.tk/
   - name: rsshub
     url: https://rss.haoqiyung.ml/
+  - name: Deeplx
+    url: https://deep.haoda7.repl.co/
   - name: count不蒜子
     url: https://count.haoqi7.repl.co/
 
