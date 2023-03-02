@@ -99,6 +99,8 @@ sites:
     url: https://rss.haoqiyung.ml/
   - name: Deeplx
     url: https://deep.haoda7.repl.co/
+  - name: Bing Straslate API
+    url: https://fy.haoda7.repl.co/
   - name: count不蒜子
     url: https://count.haoqi7.repl.co/
 
