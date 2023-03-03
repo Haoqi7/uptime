@@ -326,19 +326,19 @@
     "url": "https://scholar.haoqiyun.tk/",
     "icon": "https://icons.duckduckgo.com/ip3/scholar.haoqiyun.tk.ico",
     "slug": "google-scholar",
-    "status": "up",
-    "uptime": "84.52%",
-    "uptimeDay": "48.60%",
-    "uptimeWeek": "57.90%",
-    "uptimeMonth": "84.52%",
-    "uptimeYear": "84.52%",
+    "status": "down",
+    "uptime": "84.64%",
+    "uptimeDay": "49.43%",
+    "uptimeWeek": "58.02%",
+    "uptimeMonth": "84.64%",
+    "uptimeYear": "84.64%",
     "time": 615,
-    "timeDay": 603,
-    "timeWeek": 625,
+    "timeDay": 602,
+    "timeWeek": 624,
     "timeMonth": 615,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2023-03-03": 279,
+      "2023-03-03": 280,
       "2023-03-02": 644,
       "2023-03-01": 487,
       "2023-02-28": 647,
@@ -346,7 +346,7 @@
       "2023-02-26": 637,
       "2023-02-25": 534,
       "2023-02-24": 674,
-      "2023-02-23": 115
+      "2023-02-23": 80
     }
   },
   {
