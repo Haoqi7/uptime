@@ -273,18 +273,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/haoqi7-question.hf.space.ico",
     "slug": "ai",
     "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "81.50%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptime": "99.12%",
+    "uptimeDay": "80.66%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
     "time": 210,
     "timeDay": 212,
     "timeWeek": 208,
     "timeMonth": 210,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-03-04": 268
+      "2023-03-04": 279
     }
   },
   {
@@ -293,18 +293,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/haoqi7-draw.hf.space.ico",
     "slug": "ai",
     "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "81.50%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptime": "99.12%",
+    "uptimeDay": "80.66%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
     "time": 210,
     "timeDay": 212,
     "timeWeek": 208,
     "timeMonth": 210,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-03-04": 268
+      "2023-03-04": 280
     }
   },
   {
@@ -313,18 +313,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/haoqi7-music.hf.space.ico",
     "slug": "ai",
     "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "81.50%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptime": "99.12%",
+    "uptimeDay": "80.66%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
     "time": 210,
     "timeDay": 212,
     "timeWeek": 208,
     "timeMonth": 210,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-03-04": 268
+      "2023-03-04": 280
     }
   },
   {
@@ -350,19 +350,19 @@
     "url": "https://scholar.haoqiyun.tk/",
     "icon": "https://icons.duckduckgo.com/ip3/scholar.haoqiyun.tk.ico",
     "slug": "google-scholar",
-    "status": "down",
-    "uptime": "85.66%",
-    "uptimeDay": "53.84%",
-    "uptimeWeek": "56.59%",
-    "uptimeMonth": "85.66%",
-    "uptimeYear": "85.66%",
+    "status": "up",
+    "uptime": "85.63%",
+    "uptimeDay": "53.87%",
+    "uptimeWeek": "56.60%",
+    "uptimeMonth": "85.63%",
+    "uptimeYear": "85.63%",
     "time": 623,
-    "timeDay": 643,
-    "timeWeek": 640,
+    "timeDay": 640,
+    "timeWeek": 639,
     "timeMonth": 623,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2023-03-04": 436,
+      "2023-03-04": 447,
       "2023-03-03": 721,
       "2023-03-02": 644,
       "2023-03-01": 487,
