@@ -274,17 +274,17 @@
     "slug": "ai",
     "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "83.15%",
+    "uptimeDay": "83.13%",
     "uptimeWeek": "97.59%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.23%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 204,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "time": 208,
+    "timeDay": 209,
+    "timeWeek": 206,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2023-03-04": 243
+      "2023-03-04": 244
     }
   },
   {
@@ -294,17 +294,17 @@
     "slug": "ai",
     "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "83.15%",
+    "uptimeDay": "83.13%",
     "uptimeWeek": "97.59%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.23%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 204,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "time": 208,
+    "timeDay": 209,
+    "timeWeek": 206,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2023-03-04": 243
+      "2023-03-04": 244
     }
   },
   {
@@ -314,17 +314,17 @@
     "slug": "ai",
     "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "83.15%",
+    "uptimeDay": "83.12%",
     "uptimeWeek": "97.59%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.23%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 204,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "time": 208,
+    "timeDay": 209,
+    "timeWeek": 206,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2023-03-04": 243
+      "2023-03-04": 244
     }
   },
   {
@@ -350,19 +350,19 @@
     "url": "https://scholar.haoqiyun.tk/",
     "icon": "https://icons.duckduckgo.com/ip3/scholar.haoqiyun.tk.ico",
     "slug": "google-scholar",
-    "status": "down",
-    "uptime": "85.64%",
-    "uptimeDay": "52.16%",
-    "uptimeWeek": "56.46%",
-    "uptimeMonth": "85.64%",
-    "uptimeYear": "85.64%",
+    "status": "up",
+    "uptime": "85.61%",
+    "uptimeDay": "52.20%",
+    "uptimeWeek": "56.34%",
+    "uptimeMonth": "85.61%",
+    "uptimeYear": "85.61%",
     "time": 623,
-    "timeDay": 641,
-    "timeWeek": 640,
+    "timeDay": 637,
+    "timeWeek": 639,
     "timeMonth": 623,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2023-03-04": 435,
+      "2023-03-04": 447,
       "2023-03-03": 721,
       "2023-03-02": 644,
       "2023-03-01": 487,
