@@ -35,6 +35,8 @@ sites:
     url: https://haoqi7-question.hf.space/
   - name: AI绘画
     url: https://haoqi7-draw.hf.space/
+  - name: AI调音
+    url: https://haoqi7-music.hf.space/
   - name: Chat匿名聊天
     url: https://chat.haoqi7.repl.co
   - name: Google Scholar
