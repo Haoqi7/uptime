@@ -195,11 +195,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.haoda7.repl.co.ico",
     "slug": "alist",
     "status": "up",
-    "uptime": "97.28%",
+    "uptime": "97.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.28%",
-    "uptimeYear": "97.28%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "97.29%",
     "time": 650,
     "timeDay": 250,
     "timeWeek": 314,
@@ -274,17 +274,17 @@
     "slug": "ai",
     "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "67.11%",
-    "uptimeWeek": "95.30%",
+    "uptimeDay": "67.14%",
+    "uptimeWeek": "95.31%",
     "uptimeMonth": "98.53%",
     "uptimeYear": "98.53%",
     "time": 211,
-    "timeDay": 213,
-    "timeWeek": 210,
+    "timeDay": 214,
+    "timeWeek": 211,
     "timeMonth": 211,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2023-03-04": 475
+      "2023-03-04": 474
     }
   },
   {
@@ -294,17 +294,17 @@
     "slug": "ai",
     "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "67.11%",
-    "uptimeWeek": "95.30%",
+    "uptimeDay": "67.14%",
+    "uptimeWeek": "95.31%",
     "uptimeMonth": "98.53%",
     "uptimeYear": "98.53%",
     "time": 211,
-    "timeDay": 213,
-    "timeWeek": 210,
+    "timeDay": 214,
+    "timeWeek": 211,
     "timeMonth": 211,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2023-03-04": 476
+      "2023-03-04": 475
     }
   },
   {
@@ -314,17 +314,17 @@
     "slug": "ai",
     "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "67.11%",
+    "uptimeDay": "67.13%",
     "uptimeWeek": "95.30%",
     "uptimeMonth": "98.53%",
     "uptimeYear": "98.53%",
     "time": 211,
-    "timeDay": 213,
-    "timeWeek": 210,
+    "timeDay": 214,
+    "timeWeek": 211,
     "timeMonth": 211,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2023-03-04": 476
+      "2023-03-04": 475
     }
   },
   {
@@ -351,25 +351,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/scholar.haoqiyun.tk.ico",
     "slug": "google-scholar",
     "status": "up",
-    "uptime": "86.03%",
-    "uptimeDay": "57.06%",
-    "uptimeWeek": "57.13%",
-    "uptimeMonth": "86.03%",
-    "uptimeYear": "86.03%",
+    "uptime": "86.02%",
+    "uptimeDay": "57.94%",
+    "uptimeWeek": "57.28%",
+    "uptimeMonth": "86.02%",
+    "uptimeYear": "86.02%",
     "time": 622,
     "timeDay": 593,
-    "timeWeek": 635,
+    "timeWeek": 636,
     "timeMonth": 622,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2023-03-04": 532,
+      "2023-03-04": 519,
       "2023-03-03": 721,
       "2023-03-02": 644,
       "2023-03-01": 487,
       "2023-02-28": 647,
       "2023-02-27": 587,
       "2023-02-26": 637,
-      "2023-02-25": 227
+      "2023-02-25": 246
     }
   },
   {
@@ -614,11 +614,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.midfegh.tk.ico",
     "slug": "rss-web-reader",
     "status": "up",
-    "uptime": "89.14%",
+    "uptime": "89.15%",
     "uptimeDay": "94.94%",
     "uptimeWeek": "97.33%",
-    "uptimeMonth": "89.14%",
-    "uptimeYear": "89.14%",
+    "uptimeMonth": "89.15%",
+    "uptimeYear": "89.15%",
     "time": 2826,
     "timeDay": 2115,
     "timeWeek": 2580,
