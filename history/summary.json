@@ -31,7 +31,7 @@
     "time": 859,
     "timeDay": 505,
     "timeWeek": 608,
-    "timeMonth": 872,
+    "timeMonth": 884,
     "timeYear": 859,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 1034,
     "timeDay": 480,
     "timeWeek": 593,
-    "timeMonth": 1032,
+    "timeMonth": 1051,
     "timeYear": 1034,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 750,
     "timeDay": 481,
     "timeWeek": 375,
-    "timeMonth": 767,
+    "timeMonth": 787,
     "timeYear": 750,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 1714,
     "timeDay": 2063,
     "timeWeek": 1678,
-    "timeMonth": 1710,
+    "timeMonth": 1724,
     "timeYear": 1714,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 1638,
     "timeDay": 528,
     "timeWeek": 384,
-    "timeMonth": 1684,
+    "timeMonth": 1544,
     "timeYear": 1638,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 608,
     "timeDay": 168,
     "timeWeek": 308,
-    "timeMonth": 615,
+    "timeMonth": 618,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2023-02-23": 23,
@@ -215,7 +215,7 @@
     "time": 220,
     "timeDay": 266,
     "timeWeek": 258,
-    "timeMonth": 219,
+    "timeMonth": 222,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2023-02-28": 21
@@ -310,26 +310,26 @@
     "url": "https://scholar.haoqiyun.tk/",
     "icon": "https://icons.duckduckgo.com/ip3/scholar.haoqiyun.tk.ico",
     "slug": "google-scholar",
-    "status": "up",
-    "uptime": "89.22%",
-    "uptimeDay": "51.83%",
-    "uptimeWeek": "58.96%",
-    "uptimeMonth": "89.22%",
-    "uptimeYear": "89.22%",
+    "status": "down",
+    "uptime": "89.33%",
+    "uptimeDay": "53.66%",
+    "uptimeWeek": "58.95%",
+    "uptimeMonth": "89.33%",
+    "uptimeYear": "89.33%",
     "time": 623,
-    "timeDay": 669,
+    "timeDay": 667,
     "timeWeek": 621,
     "timeMonth": 622,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2023-03-10": 600,
+      "2023-03-10": 601,
       "2023-03-09": 657,
       "2023-03-08": 576,
       "2023-03-07": 470,
       "2023-03-06": 394,
       "2023-03-05": 728,
       "2023-03-04": 585,
-      "2023-03-03": 363
+      "2023-03-03": 321
     }
   },
   {
@@ -346,7 +346,7 @@
     "time": 1142,
     "timeDay": 1203,
     "timeWeek": 1015,
-    "timeMonth": 1120,
+    "timeMonth": 1104,
     "timeYear": 1142,
     "dailyMinutesDown": {
       "2023-02-13": 29
@@ -576,11 +576,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.midfegh.tk.ico",
     "slug": "rss-web-reader",
     "status": "up",
-    "uptime": "90.99%",
+    "uptime": "91.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.38%",
-    "uptimeMonth": "90.99%",
-    "uptimeYear": "90.99%",
+    "uptimeMonth": "91.00%",
+    "uptimeYear": "91.00%",
     "time": 2610,
     "timeDay": 1751,
     "timeWeek": 1797,
@@ -635,7 +635,7 @@
     "time": 344,
     "timeDay": 348,
     "timeWeek": 206,
-    "timeMonth": 344,
+    "timeMonth": 346,
     "timeYear": 344,
     "dailyMinutesDown": {}
   },
@@ -725,7 +725,7 @@
     "time": 343,
     "timeDay": 303,
     "timeWeek": 229,
-    "timeMonth": 333,
+    "timeMonth": 334,
     "timeYear": 343,
     "dailyMinutesDown": {}
   },
@@ -743,7 +743,7 @@
     "time": 122,
     "timeDay": 77,
     "timeWeek": 148,
-    "timeMonth": 120,
+    "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {}
   },
@@ -779,7 +779,7 @@
     "time": 109,
     "timeDay": 61,
     "timeWeek": 143,
-    "timeMonth": 108,
+    "timeMonth": 110,
     "timeYear": 109,
     "dailyMinutesDown": {}
   },
@@ -835,7 +835,7 @@
     "time": 663,
     "timeDay": 476,
     "timeWeek": 290,
-    "timeMonth": 552,
+    "timeMonth": 457,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2023-02-11": 24
@@ -876,19 +876,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.haoqiyung.ml.ico",
     "slug": "rsshub",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2884,
     "timeDay": 2700,
     "timeWeek": 2418,
-    "timeMonth": 2851,
+    "timeMonth": 2878,
     "timeYear": 2884,
-    "dailyMinutesDown": {
-      "2023-03-10": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Translate",
@@ -1030,7 +1028,7 @@
     "time": 337,
     "timeDay": 330,
     "timeWeek": 320,
-    "timeMonth": 332,
+    "timeMonth": 339,
     "timeYear": 337,
     "dailyMinutesDown": {}
   }
