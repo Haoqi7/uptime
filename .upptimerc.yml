@@ -111,6 +111,8 @@ sites:
     url: https://haoqiyung.github.io/web-txt-convert/
   - name: Ipfs
     url: https://haoqiyung.ml/ipfs/
+  - name: cs
+    url: https://cs.haoqiyong.cf
   - name: count不蒜子
     url: https://count.haoqi7.repl.co/
 
