@@ -10,7 +10,7 @@ sites:
   - name: File文件传递柜
     url: https://file.haoda7.repl.co
   - name: memos备忘录
-    url: https://write.haoqiyong.cf/
+    url: https://memos-on-replit.hao77.repl.co/
   - name: Note便签
     url: https://note.haoqiyun.ml/ 
   - name: Bill账单
@@ -62,7 +62,7 @@ sites:
   - name: Book search
     url: https://book.haoda7.repl.co/
   - name: Online reader
-    url: https://reader.haoqiyong.cf/
+    url: https://reader.hao77.repl.co/
   - name: RssWebReader
     url: http://api.midfegh.tk/
   - name: Nav导航网站
