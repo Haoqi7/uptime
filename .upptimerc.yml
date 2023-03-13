@@ -19,6 +19,8 @@ sites:
     url: https://search.haoqiyun.ml/
   - name: One网盘
     url: https://pan.haoqiyun.tk/
+  - name: Onedrive
+    url: https://one.hao77.repl.co/zh-CN
   - name: OneDrive
     url: https://pan.wasenk.cf/zh-CN/
   - name: Alist网盘
