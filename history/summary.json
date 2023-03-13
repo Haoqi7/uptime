@@ -270,7 +270,7 @@
     "uptimeYear": "93.77%",
     "time": 211,
     "timeDay": 184,
-    "timeWeek": 210,
+    "timeWeek": 209,
     "timeMonth": 210,
     "timeYear": 211,
     "dailyMinutesDown": {
@@ -293,7 +293,7 @@
     "uptimeYear": "93.77%",
     "time": 211,
     "timeDay": 184,
-    "timeWeek": 210,
+    "timeWeek": 209,
     "timeMonth": 210,
     "timeYear": 211,
     "dailyMinutesDown": {
@@ -328,26 +328,26 @@
     "url": "https://scholar.haoqiyun.tk/",
     "icon": "https://icons.duckduckgo.com/ip3/scholar.haoqiyun.tk.ico",
     "slug": "google-scholar",
-    "status": "up",
-    "uptime": "90.21%",
-    "uptimeDay": "57.93%",
-    "uptimeWeek": "58.04%",
-    "uptimeMonth": "90.10%",
-    "uptimeYear": "90.21%",
+    "status": "down",
+    "uptime": "90.29%",
+    "uptimeDay": "57.88%",
+    "uptimeWeek": "58.08%",
+    "uptimeMonth": "90.18%",
+    "uptimeYear": "90.29%",
     "time": 621,
-    "timeDay": 609,
+    "timeDay": 611,
     "timeWeek": 625,
     "timeMonth": 620,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2023-03-13": 212,
+      "2023-03-13": 213,
       "2023-03-12": 630,
       "2023-03-11": 698,
       "2023-03-10": 760,
       "2023-03-09": 657,
       "2023-03-08": 576,
       "2023-03-07": 470,
-      "2023-03-06": 339
+      "2023-03-06": 303
     }
   },
   {
