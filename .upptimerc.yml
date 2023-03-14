@@ -91,6 +91,8 @@ sites:
     url: https://haoqi7.github.io/online-tools/
   - name: online抠图
     url: https://image.haoqi7.repl.co/
+  - name: TUku
+    url: https://tu.hao77.repl.co/
   - name: uptime
     url: https://uptime.haoda.repl.co/
   - name: API代理
