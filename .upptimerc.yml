@@ -19,8 +19,6 @@ sites:
     url: https://search.haoqiyun.ml/
   - name: One网盘
     url: https://pan.haoqiyun.tk/
-  - name: Onedrive
-    url: https://one.hao77.repl.co/zh-CN
   - name: OneDrive
     url: https://pan.wasenk.cf/zh-CN/
   - name: Alist网盘
@@ -65,8 +63,6 @@ sites:
     url: https://book.haoda7.repl.co/
   - name: Online reader
     url: https://reader.hao77.repl.co/
-  - name: RssWebReader
-    url: http://api.midfegh.tk/
   - name: Nav导航网站
     url: https://nav.haoqiyun.ml/
   - name: Learn Only导航
@@ -97,13 +93,11 @@ sites:
     url: https://uptime.haoda.repl.co/
   - name: API代理
     url: https://proxy.haoqiyun.tk/
-  - name: Rssweb
-    url: http://web.midfegh.tk/
   - name: rsshub
     url: https://rss.haoqiyung.ml/
   - name: Translate
     url: https://translate.haoqiyung.ml
-  - name: Deeplx
+  - name: Deepl
     url: https://deep.haoda.repl.co/
   - name: Deeplx
     url: https://deep.haoda7.repl.co/
