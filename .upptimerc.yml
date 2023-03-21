@@ -35,8 +35,6 @@ sites:
     url: https://haoqi7-draw.hf.space/
   - name: Chat匿名聊天
     url: https://chat.hao77.repl.co/
-  - name: Google Scholar
-    url: https://scholar.haoqiyun.tk/
   - name: Google Search
     url: https://google.haoqiyun.tk/
   - name: Typecho博客
