@@ -4,19 +4,19 @@
     "url": "https://cook.wasenk.cf/",
     "icon": "https://icons.duckduckgo.com/ip3/cook.wasenk.cf.ico",
     "slug": "let-s-cook",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 653,
-    "timeDay": 458,
-    "timeWeek": 377,
-    "timeMonth": 454,
-    "timeYear": 653,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 646,
+    "timeDay": 400,
+    "timeWeek": 362,
+    "timeMonth": 449,
+    "timeYear": 646,
     "dailyMinutesDown": {
-      "2023-03-22": 1
+      "2023-03-22": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://code.haoqiyong.cf/",
     "icon": "https://icons.duckduckgo.com/ip3/code.haoqiyong.cf.ico",
     "slug": "file-transfer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 700,
-    "timeWeek": 588,
-    "timeMonth": 684,
-    "timeYear": 774,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 772,
+    "timeDay": 671,
+    "timeWeek": 591,
+    "timeMonth": 683,
+    "timeYear": 772,
     "dailyMinutesDown": {
-      "2023-03-22": 1
+      "2023-03-22": 11
     }
   },
   {
