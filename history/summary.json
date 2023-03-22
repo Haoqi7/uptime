@@ -4,19 +4,19 @@
     "url": "https://cook.wasenk.cf/",
     "icon": "https://icons.duckduckgo.com/ip3/cook.wasenk.cf.ico",
     "slug": "let-s-cook",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 646,
-    "timeDay": 400,
-    "timeWeek": 362,
-    "timeMonth": 449,
-    "timeYear": 646,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 641,
+    "timeDay": 375,
+    "timeWeek": 354,
+    "timeMonth": 445,
+    "timeYear": 641,
     "dailyMinutesDown": {
-      "2023-03-22": 1
+      "2023-03-22": 12
     }
   },
   {
