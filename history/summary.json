@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
-    "timeDay": 391,
+    "timeDay": 395,
     "timeWeek": 618,
     "timeMonth": 512,
     "timeYear": 676,
@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.haoda7.repl.co.ico",
     "slug": "alist",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.50%",
     "time": 519,
     "timeDay": 538,
     "timeWeek": 379,
@@ -248,11 +248,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/haoqi7-question.hf.space.ico",
     "slug": "ai",
     "status": "up",
-    "uptime": "95.31%",
+    "uptime": "95.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.70%",
-    "uptimeYear": "95.31%",
+    "uptimeYear": "95.34%",
     "time": 211,
     "timeDay": 249,
     "timeWeek": 248,
@@ -271,11 +271,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/haoqi7-draw.hf.space.ico",
     "slug": "ai",
     "status": "up",
-    "uptime": "95.31%",
+    "uptime": "95.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.70%",
-    "uptimeYear": "95.31%",
+    "uptimeYear": "95.34%",
     "time": 211,
     "timeDay": 249,
     "timeWeek": 248,
@@ -373,19 +373,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.haoqiyung.ml.ico",
     "slug": "matery",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 542,
     "timeDay": 395,
     "timeWeek": 318,
     "timeMonth": 503,
     "timeYear": 542,
-    "dailyMinutesDown": {
-      "2023-03-23": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rabbit博客",
@@ -393,19 +391,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/haoqiyun.ml.ico",
     "slug": "rabbit",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 604,
     "timeDay": 144,
     "timeWeek": 253,
     "timeMonth": 557,
     "timeYear": 604,
-    "dailyMinutesDown": {
-      "2023-03-23": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NAS-state",
@@ -754,10 +750,10 @@
     "url": "https://image.haoqi7.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/image.haoqi7.repl.co.ico",
     "slug": "online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 355,
@@ -766,6 +762,7 @@
     "timeMonth": 377,
     "timeYear": 355,
     "dailyMinutesDown": {
+      "2023-03-23": 1,
       "2023-03-06": 23
     }
   },
@@ -836,19 +833,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.haoqiyung.ml.ico",
     "slug": "rsshub",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3002,
     "timeDay": 2053,
     "timeWeek": 3411,
     "timeMonth": 2972,
     "timeYear": 3002,
-    "dailyMinutesDown": {
-      "2023-03-23": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Translate",
@@ -999,10 +994,10 @@
     "url": "https://count.haoqi7.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/count.haoqi7.repl.co.ico",
     "slug": "count",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
@@ -1010,6 +1005,8 @@
     "timeWeek": 406,
     "timeMonth": 321,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-23": 1
+    }
   }
 ]
