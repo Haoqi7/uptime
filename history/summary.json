@@ -334,9 +334,9 @@
     "url": "https://blog.haoqiyong.cf/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.haoqiyong.cf.ico",
     "slug": "typecho",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "98.55%",
+    "uptimeDay": "98.52%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
@@ -752,18 +752,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/image.haoqi7.repl.co.ico",
     "slug": "online",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 404,
     "timeDay": 2049,
     "timeWeek": 732,
     "timeMonth": 449,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2023-03-23": 2,
+      "2023-03-23": 12,
       "2023-03-06": 23
     }
   },
@@ -996,18 +996,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/count.haoqi7.repl.co.ico",
     "slug": "count",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.92%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.92%",
     "time": 332,
     "timeDay": 508,
     "timeWeek": 406,
     "timeMonth": 321,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2023-03-23": 35
+      "2023-03-23": 45
     }
   }
 ]
