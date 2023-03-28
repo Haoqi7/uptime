@@ -1016,9 +1016,9 @@
     "url": "https://count.haoqi7.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/count.haoqi7.repl.co.ico",
     "slug": "count",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "98.45%",
+    "uptimeDay": "98.41%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.83%",
@@ -1028,7 +1028,7 @@
     "timeMonth": 750,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2023-03-28": 22,
+      "2023-03-28": 23,
       "2023-03-25": 21,
       "2023-03-23": 69
     }
