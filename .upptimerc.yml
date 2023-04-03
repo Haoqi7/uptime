@@ -9,6 +9,8 @@ sites:
     url: https://code.haoqiyong.cf/
   - name: File文件传递柜
     url: https://file.haoda7.repl.co
+  - name: Drop
+    url: https://drop.hao77.repl.co/
   - name: memos备忘录
     url: https://memos-on-replit.hao77.repl.co/
   - name: Note便签
