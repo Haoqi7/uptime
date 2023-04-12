@@ -24,7 +24,7 @@ sites:
   - name: OneDrive
     url: https://pan.wasenk.cf/zh-CN/
   - name: Alist网盘
-    url: https://pan.haoda7.repl.co/
+    url: https://pan.haoda.repl.co/
   - name: Cloudreve 网盘
     url: https://one.haoda.repl.co/
   - name: Stable Diffusion
