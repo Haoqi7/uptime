@@ -44,7 +44,7 @@ sites:
   - name: Weibo热搜榜
     url: https://haoqi7.github.io/weibo-search/
   - name: Chatgpt
-    url: https://cd.haoqiyong.cf/
+    url: https://cs.haoqiyong.cf/
   - name: Online reader
     url: https://reader.hao77.repl.co/
   - name: Nav导航网站
