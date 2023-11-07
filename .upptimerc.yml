@@ -11,32 +11,16 @@ sites:
     url: https://file.haoda7.repl.co
   - name: Drop
     url: https://drop.hao77.repl.co/
-  - name: memos备忘录
-    url: https://memos-on-replit.hao77.repl.co/
   - name: Note便签
-    url: https://note.haoqiyun.ml/ 
+    url: https://note.haoqiyun.tk/ 
   - name: Bill账单
     url: https://bill.wasenk.cf/
   - name: All网盘搜索
-    url: https://search.haoqiyun.ml/
+    url: https://search.haoqiyun.tk/
   - name: One网盘
     url: https://pan.haoqiyun.tk/
   - name: OneDrive
     url: https://pan.wasenk.cf/zh-CN/
-  - name: Alist网盘
-    url: https://pan.haoda.repl.co/
-  - name: Cloudreve 网盘
-    url: https://one.haoda.repl.co/
-  - name: Stable Diffusion
-    url: https://haoqi7-images.hf.space/
-  - name: SearchIEEE文献
-    url: https://haoqi7-research.hf.space/
-  - name: AI对话
-    url: https://haoqi7-question.hf.space/
-  - name: AI绘画
-    url: https://haoqi7-draw.hf.space/
-  - name: Chat匿名聊天
-    url: https://chat.hao77.repl.co/
   - name: Google Search
     url: https://google.haoqiyun.tk/
   - name: Typecho博客
@@ -44,11 +28,11 @@ sites:
   - name: Butterfly博客
     url: https://haoqiyun.tk/
   - name: Matery博客
-    url: https://www.haoqiyung.ml/
+    url: https://haoqiyung.github.io/
   - name: Rabbit博客
-    url: https://haoqiyun.ml/    
+    url: https://haoqi7.github.io/    
   - name: NAS-state
-    url: https://nas.wasenk.cf
+    url: https://nas-state.vercel.app/
   - name: My文档
     url: https://wasenk.cf
   - name: Chinese诗歌
@@ -56,7 +40,7 @@ sites:
   - name: EverydayNews
     url: https://haoqi7.github.io/EverydayNews
   - name: Day's早报
-    url: https://news.haoqiyun.ml/
+    url: https://news.haoqiyun.tk/
   - name: Weibo热搜榜
     url: https://haoqi7.github.io/weibo-search/
   - name: Book search
@@ -64,7 +48,7 @@ sites:
   - name: Online reader
     url: https://reader.hao77.repl.co/
   - name: Nav导航网站
-    url: https://nav.haoqiyun.ml/
+    url: https://navi.vercel.app/
   - name: Learn Only导航
     url: https://nav.wasenk.cf/
   - name: Games合集
@@ -75,8 +59,6 @@ sites:
     url: https://haoqi7.github.io/Chinese-chess
   - name: catch-cat
     url: https://haoqi7.github.io/catch-cat
-  - name: Music
-    url: https://music.haoqiyong.cf
   - name: YesPlayMusic
     url: https://music.wasenk.cf/
   - name: BiYingWallPaper
@@ -85,16 +67,12 @@ sites:
     url: https://git.haoqiyong.cf/
   - name: OneLine Tool
     url: https://haoqi7.github.io/online-tools/
-  - name: online抠图
-    url: https://image.haoqi7.repl.co/
-  - name: TUku
-    url: https://tu.hao77.repl.co/
   - name: API代理
     url: https://proxy.haoqiyun.tk/
   - name: rsshub
-    url: https://rss.haoqiyung.ml/
+    url: https://rss.wasenk.cf/
   - name: Translate
-    url: https://translate.haoqiyung.ml
+    url: https://translate.wasenk.cf/
   - name: Deepl
     url: https://deep.haoda.repl.co/
   - name: Deeplx
@@ -106,7 +84,7 @@ sites:
   - name: TXT-convert
     url: https://haoqiyung.github.io/web-txt-convert/
   - name: Ipfs
-    url: https://haoqiyung.ml/ipfs/
+    url: https://haoqiyung.github.io/ipfs/
   - name: cs
     url: https://cs.haoqiyong.cf
   - name: count不蒜子
