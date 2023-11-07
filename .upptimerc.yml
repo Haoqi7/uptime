@@ -43,8 +43,8 @@ sites:
     url: https://news.haoqiyun.tk/
   - name: Weibo热搜榜
     url: https://haoqi7.github.io/weibo-search/
-  - name: Book search
-    url: https://book.haoda7.repl.co/
+  - name: Chatgpt
+    url: https://cd.haoqiyong.cf/
   - name: Online reader
     url: https://reader.hao77.repl.co/
   - name: Nav导航网站
