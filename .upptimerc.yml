@@ -19,8 +19,6 @@ sites:
     url: https://search.haoqiyun.tk/
   - name: One网盘
     url: https://pan.haoqiyun.tk/
-  - name: OneDrive
-    url: https://pan.wasenk.cf/zh-CN/
   - name: Google Search
     url: https://google.haoqiyun.tk/
   - name: Typecho博客
