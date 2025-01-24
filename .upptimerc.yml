@@ -9,8 +9,6 @@ sites:
     url: https://code.haoqiyong.cf/
   - name: push
     url: https://server.haoqiyun.tk/
-  - name: Drop
-    url: https://drop.hao77.repl.co/
   - name: Note便签
     url: https://note.haoqiyun.tk/ 
   - name: Bill账单
@@ -21,8 +19,6 @@ sites:
     url: https://pan.haoqiyun.tk/
   - name: Google Search
     url: https://google.haoqiyun.tk/
-  - name: Typecho博客
-    url: https://blog.haoqiyong.cf/
   - name: Butterfly博客
     url: https://haoqiyun.tk/
   - name: Matery博客
@@ -41,10 +37,6 @@ sites:
     url: https://news.haoqiyun.tk/
   - name: Weibo热搜榜
     url: https://haoqi7.github.io/weibo-search/
-  - name: Chatgpt
-    url: https://cs.haoqiyong.cf/
-  - name: Online reader
-    url: https://reader.hao77.repl.co/
   - name: Nav导航网站
     url: https://navi.vercel.app/
   - name: Learn Only导航
@@ -71,22 +63,11 @@ sites:
     url: https://rss.wasenk.cf/
   - name: Translate
     url: https://translate.wasenk.cf/
-  - name: Deepl
-    url: https://deep.haoda.repl.co/
-  - name: Deeplx
-    url: https://deep.haoda7.repl.co/
-  - name: fy
-    url: https://fy.haoda.repl.co/
-  - name: Bing Straslate API
-    url: https://fy.haoda7.repl.co/
   - name: TXT-convert
     url: https://haoqiyung.github.io/web-txt-convert/
   - name: Ipfs
     url: https://haoqiyung.github.io/ipfs/
-  - name: cs
-    url: https://cs.haoqiyong.cf
-  - name: count不蒜子
-    url: https://count.haoqi7.repl.co/
+
 
 
 status-website:
