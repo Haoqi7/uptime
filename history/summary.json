@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 1235,
+      "2025-03-20": 1248,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -430,7 +430,7 @@
     "uptime": "82.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.22%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "98.47%",
     "time": 325,
     "timeDay": 290,
@@ -688,19 +688,19 @@
     "url": "https://haoqi7.github.io/weibo-search/",
     "icon": "https://icons.duckduckgo.com/ip3/haoqi7.github.io.ico",
     "slug": "weibo",
-    "status": "down",
+    "status": "up",
     "uptime": "97.08%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 60,
-    "timeDay": 78,
-    "timeWeek": 69,
+    "timeDay": 62,
+    "timeWeek": 65,
     "timeMonth": 57,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2025-03-20": 0
+      "2025-03-20": 13
     }
   },
   {
