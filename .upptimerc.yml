@@ -37,8 +37,6 @@ sites:
     url: https://news.haoqiyun.tk/
   - name: Weibo热搜榜
     url: https://haoqi7.github.io/weibo-search/
-  - name: Nav导航网站
-    url: https://navi.vercel.app/
   - name: Learn Only导航
     url: https://nav.wasenk.cf/
   - name: Games合集
