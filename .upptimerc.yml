@@ -5,8 +5,6 @@ repo: uptime # The name of this repository
 sites:
   - name: Let's Cook
     url: https://cook.wasenk.cf/
-  - name: File Transfer
-    url: https://code.haoqiyong.cf/
   - name: push
     url: https://server.haoqiyun.tk/
   - name: Note便签
