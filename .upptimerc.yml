@@ -13,8 +13,6 @@ sites:
     url: https://bill.wasenk.cf/
   - name: All网盘搜索
     url: https://search.haoqiyun.tk/
-  - name: One网盘
-    url: https://pan.haoqiyun.tk/
   - name: Google Search
     url: https://google.haoqiyun.tk/
   - name: Butterfly博客
