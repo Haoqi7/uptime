@@ -1,7 +1,7 @@
 url: https://nas-state.vercel.app/
-status: up
-code: 200
-responseTime: 266
-lastUpdated: 2025-10-19T23:12:51.580Z
+status: down
+code: 500
+responseTime: 3217
+lastUpdated: 2025-10-20T06:57:40.544Z
 startTime: 2023-02-18T15:09:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
